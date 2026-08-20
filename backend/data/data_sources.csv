@@ -1,0 +1,13 @@
+source_name,source_url,data_type,reliability_score
+MakeMyTrip,https://www.makemytrip.com,public_reference,85
+Goibibo,https://www.goibibo.com,public_reference,85
+ixigo,https://www.ixigo.com,public_reference,80
+Yatra,https://www.yatra.com,public_reference,80
+Official Prepaid Counter,,official_rate,95
+Official Guide Association,,official_rate,90
+Government Tourism Portal,,official_rate,95
+Local Association,,official_rate,85
+Local Adventure Club,,official_rate,80
+Tourism Board Portal,,official_rate,95
+Local Grievance Registry,,aggregated_complaints,80
+Anonymized Incident Logbook,,safety_incident,75

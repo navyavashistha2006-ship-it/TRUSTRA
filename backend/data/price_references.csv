@@ -1,0 +1,48 @@
+source_name,source_url,collected_at,location,service_type,route_context,vehicle_or_service_category,price,currency,included_distance,extra_charge_details,booking_date_context,data_type
+MakeMyTrip,https://www.makemytrip.com/cabs,2026-08-20,Jaipur,Taxi,Airport to Amer Fort,Sedan,850,INR,15 km,₹15/km after included distance,current reference,public_reference
+Goibibo,https://www.goibibo.com/cars,2026-08-19,Jaipur,Taxi,Airport to Amer Fort,Sedan,900,INR,15 km,₹15/km after included distance,current reference,public_reference
+ixigo,https://www.ixigo.com/cabs,2026-08-18,Jaipur,Taxi,Airport to Amer Fort,Sedan,820,INR,15 km,₹14/km after included distance,current reference,public_reference
+Yatra,https://www.yatra.com/cabs,2026-08-17,Jaipur,Taxi,Airport to Amer Fort,Sedan,950,INR,15 km,₹16/km after included distance,current reference,public_reference
+ixigo,https://www.ixigo.com/cabs,2026-08-20,Goa,Taxi,Dabolim Airport to Calangute,Sedan,1550,INR,40 km,₹18/km after included distance,current reference,public_reference
+MakeMyTrip,https://www.makemytrip.com/cabs,2026-08-19,Goa,Taxi,Dabolim Airport to Calangute,Sedan,1650,INR,40 km,₹20/km after included distance,current reference,public_reference
+Goibibo,https://www.goibibo.com/cars,2026-08-19,Goa,Taxi,Dabolim Airport to Calangute,Sedan,1700,INR,40 km,₹20/km after included distance,current reference,public_reference
+Yatra,https://www.yatra.com/cabs,2026-08-18,Goa,Taxi,Dabolim Airport to Calangute,Sedan,1800,INR,40 km,₹22/km after included distance,current reference,public_reference
+Official Prepaid Counter,,2026-08-20,Goa,Taxi,Dabolim Airport to Calangute,Hatchback,1450,INR,40 km,None,current reference,official_rate
+Official Guide Association,,2026-08-15,Jaipur,Guide,Amer Fort Tour,General Guide,600,INR,4 hours,None,current reference,official_rate
+Government Tourism Portal,https://tourism.rajasthan.gov.in,2026-08-10,Jaipur,Guide,Amer Fort Tour,Certified Guide,700,INR,4 hours,None,current reference,official_rate
+ixigo,https://www.ixigo.com/activities,2026-08-18,Jaipur,Guide,Amer Fort Tour,Half-Day Tour,850,INR,4 hours,Tickets excluded,current reference,public_reference
+Official Guide Association,,2026-08-20,Agra,Guide,Taj Mahal Guided Tour,General Guide,750,INR,3 hours,Tickets excluded,current reference,official_rate
+Government Tourism Portal,https://www.up-tourism.com,2026-08-18,Agra,Guide,Taj Mahal Guided Tour,Certified Guide,800,INR,3 hours,Tickets excluded,current reference,official_rate
+ixigo,https://www.ixigo.com/activities,2026-08-19,Agra,Guide,Taj Mahal Guided Tour,Half-Day Guide,900,INR,3 hours,Tickets excluded,current reference,public_reference
+Yatra,https://www.yatra.com/holidays,2026-08-17,Agra,Guide,Taj Mahal Guided Tour,Heritage Guide,950,INR,3 hours,Tickets excluded,current reference,public_reference
+Official Prepaid Counter,,2026-08-20,Mumbai,Taxi,Colaba to Mumbai Airport,Hatchback,850,INR,25 km,None,current reference,official_rate
+MakeMyTrip,https://www.makemytrip.com/cabs,2026-08-19,Mumbai,Taxi,Colaba to Mumbai Airport,Sedan,950,INR,25 km,₹18/km after included distance,current reference,public_reference
+Goibibo,https://www.goibibo.com/cars,2026-08-19,Mumbai,Taxi,Colaba to Mumbai Airport,Sedan,900,INR,25 km,₹18/km after included distance,current reference,public_reference
+Yatra,https://www.yatra.com/cabs,2026-08-17,Mumbai,Taxi,Colaba to Mumbai Airport,Sedan,1000,INR,25 km,₹20/km after included distance,current reference,public_reference
+Local Adventure Club,,2026-08-15,Manali,Trek Operator,Solang Valley Day Hike,Guided Trek,1700,INR,1 day,Equipment included,current reference,official_rate
+Tourism Board Portal,https://himachaltourism.gov.in,2026-08-12,Manali,Trek Operator,Solang Valley Day Hike,Certified Operator,1800,INR,1 day,Equipment and Lunch included,current reference,official_rate
+Goibibo,https://www.goibibo.com/activities,2026-08-19,Manali,Trek Operator,Solang Valley Day Hike,Adventure Trek,2000,INR,1 day,Equipment included,current reference,public_reference
+MakeMyTrip,https://www.makemytrip.com/activities,2026-08-18,Manali,Trek Operator,Solang Valley Day Hike,Standard Trek,2100,INR,1 day,Equipment included,current reference,public_reference
+Local Association,,2026-08-20,Manali,Taxi,Mall Road to Solang Valley,Hatchback,800,INR,14 km,None,current reference,official_rate
+MakeMyTrip,https://www.makemytrip.com/cabs,2026-08-19,Manali,Taxi,Mall Road to Solang Valley,Sedan,1000,INR,14 km,₹20/km after included distance,current reference,public_reference
+Goibibo,https://www.goibibo.com/cars,2026-08-18,Manali,Taxi,Mall Road to Solang Valley,Sedan,950,INR,14 km,₹20/km after included distance,current reference,public_reference
+Yatra,https://www.yatra.com/cabs,2026-08-16,Manali,Taxi,Mall Road to Solang Valley,Sedan,1100,INR,14 km,₹22/km after included distance,current reference,public_reference
+ixigo,https://www.ixigo.com/cabs,2026-08-19,Manali,Taxi,Mall Road to Solang Valley,Sedan,900,INR,14 km,₹18/km after included distance,current reference,public_reference
+MakeMyTrip,https://www.makemytrip.com/homestays,2026-08-20,Jaipur,Homestay,Old City Heritage Room,Double Bed Room,2400,INR,1 room,Wifi and Breakfast included,current reference,public_reference
+Goibibo,https://www.goibibo.com/hotels,2026-08-19,Jaipur,Homestay,Old City Heritage Room,Standard Room,2600,INR,1 room,Wifi included,current reference,public_reference
+Yatra,https://www.yatra.com/hotels,2026-08-17,Jaipur,Homestay,Old City Heritage Room,Heritage Room,2800,INR,1 room,Wifi and Breakfast included,current reference,public_reference
+MakeMyTrip,https://www.makemytrip.com/homestays,2026-08-20,Goa,Homestay,Beachside Room (Anjuna),Deluxe Room,3500,INR,1 room,Wifi included,current reference,public_reference
+Goibibo,https://www.goibibo.com/hotels,2026-08-19,Goa,Homestay,Beachside Room (Anjuna),Standard Room,3800,INR,1 room,Wifi and AC included,current reference,public_reference
+Yatra,https://www.yatra.com/hotels,2026-08-18,Goa,Homestay,Beachside Room (Anjuna),AC Room,4200,INR,1 room,AC and Breakfast included,current reference,public_reference
+MakeMyTrip,https://www.makemytrip.com/cabs,2026-08-20,Agra,Taxi,Cantt Station to Taj East Gate,Sedan,350,INR,8 km,None,current reference,public_reference
+Goibibo,https://www.goibibo.com/cars,2026-08-19,Agra,Taxi,Cantt Station to Taj East Gate,Sedan,400,INR,8 km,None,current reference,public_reference
+ixigo,https://www.ixigo.com/cabs,2026-08-18,Agra,Taxi,Cantt Station to Taj East Gate,Sedan,320,INR,8 km,None,current reference,public_reference
+Yatra,https://www.yatra.com/cabs,2026-08-17,Agra,Taxi,Cantt Station to Taj East Gate,Sedan,450,INR,8 km,None,current reference,public_reference
+Official Prepaid Counter,,2026-08-20,Agra,Taxi,Cantt Station to Taj East Gate,Auto Rickshaw,250,INR,8 km,None,current reference,official_rate
+MakeMyTrip,https://www.makemytrip.com/activities,2026-08-20,Mumbai,Guide,Dharavi Guided Walking Tour,2-Hour Tour,850,INR,2 hours,Standard walking tour,current reference,public_reference
+Goibibo,https://www.goibibo.com/activities,2026-08-19,Mumbai,Guide,Dharavi Guided Walking Tour,Walking Group,900,INR,2 hours,Standard walking tour,current reference,public_reference
+ixigo,https://www.ixigo.com/activities,2026-08-18,Mumbai,Guide,Dharavi Guided Walking Tour,Guided Walk,800,INR,2 hours,Standard walking tour,current reference,public_reference
+Yatra,https://www.yatra.com/activities,2026-08-17,Mumbai,Guide,Dharavi Guided Walking Tour,Private Tour,1100,INR,2 hours,Private tour,current reference,public_reference
+ixigo,https://www.ixigo.com/activities,2026-08-20,Goa,Rental,Scooter Day Rent (Vagator),Honda Activa 110,400,INR,1 day,Helmet included,current reference,public_reference
+Yatra,https://www.yatra.com/activities,2026-08-19,Goa,Rental,Scooter Day Rent (Vagator),Activa 125,500,INR,1 day,Helmet included,current reference,public_reference
+Local Association,,2026-08-20,Goa,Rental,Scooter Day Rent (Vagator),Standard Gearless,450,INR,1 day,Helmet included,current reference,official_rate

@@ -1,0 +1,6 @@
+id,location,service_type,category,severity,title,details,date
+inc-01,Jaipur,Taxi,Bait & Switch,HIGH,"En-route Embellishment & Detour forced stop","Driver claimed the booked hotel was closed/unsafe and insisted on taking the tourist to another hotel owned by a 'relative' where prices were tripled.",2026-08-10
+inc-02,Jaipur,Guide,Fake Guide,MODERATE,"Commission Scheme inside Gem Market","Unlicensed guide led tourists to a gem market shop, pressuring them to purchase synthetic stones marketed as authentic gems.",2026-08-12
+inc-03,Goa,Taxi,Overcharging,HIGH,"Calangute Taxi Union Overcharging Dispute","Local taxi operators surrounded app-cab and forced passengers out, demanding double the rate for private transfer.",2026-08-15
+inc-04,Agra,Guide,Fake Guide,CRITICAL,"Unlicensed Guide Entry Counterfeit scam","Scammer posed as official guide at the ticket counter, sold fake fast-track tickets, and abandoned tourists inside.",2026-08-05
+inc-05,Goa,Rental,Bait & Switch,MODERATE,"Pre-existing scratch fine extortion","Rental shop operator claimed security deposit (₹5000) for a pre-existing scratch. Refused to return tourist passport until paid.",2026-08-01

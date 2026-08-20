@@ -1,0 +1,15 @@
+location,service_type,issue_type,severity,reference_count,source_type,confidence
+Jaipur,Taxi,overcharging,high,42,aggregated_public_reports,medium
+Jaipur,Taxi,route_deviation,moderate,15,aggregated_public_reports,medium
+Jaipur,Guide,bait_and_switch_pricing,high,28,aggregated_public_reports,medium
+Jaipur,Guide,unauthorized_operator_concern,moderate,18,aggregated_public_reports,low
+Goa,Taxi,fare_dispute,high,51,aggregated_public_reports,high
+Goa,Taxi,overcharging,high,38,aggregated_public_reports,high
+Goa,Rental,payment_dispute,moderate,29,aggregated_public_reports,medium
+Goa,Rental,unauthorized_operator_concern,low,12,aggregated_public_reports,low
+Agra,Guide,bait_and_switch_pricing,high,35,aggregated_public_reports,high
+Agra,Guide,unauthorized_operator_concern,high,24,aggregated_public_reports,medium
+Agra,Taxi,overcharging,moderate,14,aggregated_public_reports,medium
+Manali,Taxi,fare_dispute,moderate,12,aggregated_public_reports,medium
+Mumbai,Taxi,overcharging,low,9,aggregated_public_reports,medium
+Mumbai,Guide,unauthorized_operator_concern,low,5,aggregated_public_reports,low
