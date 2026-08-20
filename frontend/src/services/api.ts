@@ -9,7 +9,7 @@ import type {
 // on the same network can access the backend.
 const API_BASE_URL =
   import.meta.env.VITE_API_BASE_URL ||
-  'http://172.18.133.41:8000';
+  'https://trustra-backend.vercel.app';
 
 
 export const mapBackendResponse = (
